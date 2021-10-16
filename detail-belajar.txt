@@ -4,5 +4,5 @@ Github
 * main    : jalur awal pada github
 * branch  : membuat cabang atau jalur baru pada github untuk membuat atau merubahan file tanpa merubah main pada github
 * merge   : menggabungkan branch atau jalur github dari branch ke main
-* compare and pull request : meminta master atau pemilik github pada jalur main untuk menggabungkan branch yang kita buat pada main
+* compare and pull request : meminta master atau pemilik github pada jalur main untuk menggabungkan branch yang kita buat pada mai
 * merge branch conflict    : penggabungan branch terdapat masalah dikarenakan pada baris yang sama mempunyai tulisan yang berbeda
