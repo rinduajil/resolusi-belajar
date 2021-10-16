@@ -2,4 +2,5 @@ Github
 * commit  : untuk menyimpan file atau perubahan pada github
 * hash    : kode perubahan yang dapat dilihat pada history commit
 * main    : jalur awal pada github
-* branch  : cabang pada github untuk membuat atau merubahan file tanpa merubah main pada github
+* branch  : membuat cabang atau jalur baru pada github untuk membuat atau merubahan file tanpa merubah main pada github
+* merge   : menggabungkan branch atau jalur github dari branch ke main
