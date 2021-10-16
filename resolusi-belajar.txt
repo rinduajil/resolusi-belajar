@@ -1,0 +1,3 @@
+resolusi belajar:
+* github
+* git
