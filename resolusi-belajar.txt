@@ -1,6 +1,6 @@
 resolusi belajar:
 * github
   - membuat file baru
-  - edit file
-  - hapus file
+  - edit dan hapus file
+  - check history perubahan file
 * git
