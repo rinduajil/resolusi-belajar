@@ -1,4 +1,5 @@
 Github
+* repo    : folder pada github
 * commit  : untuk menyimpan file atau perubahan pada github
 * hash    : kode perubahan yang dapat dilihat pada history commit
 * main    : jalur awal pada github
@@ -6,3 +7,4 @@ Github
 * merge   : menggabungkan branch atau jalur github dari branch ke main
 * compare and pull request : meminta master atau pemilik github pada jalur main untuk menggabungkan branch yang kita buat pada mai
 * merge branch conflict    : penggabungan branch terdapat masalah dikarenakan pada baris yang sama mempunyai tulisan yang berbeda
+* fork                     : duplicate repo github lain kepada repo kita
