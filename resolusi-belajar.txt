@@ -1,3 +1,6 @@
 resolusi belajar:
 * github
+  - membuat file baru
+  - edit file
+  - hapus file
 * git
